@@ -1,6 +1,12 @@
 # Project TDI SMOKE
 For all support questions, feel free to open a ticket a ask for help in my discord: https://discord.io/scriptlandiav2
 
+
+
+https://github.com/ThesympnaticS/smp-tdismoke/assets/72625097/cb3cb6c5-ea62-4723-8adf-9579d18a7b6b
+
+
+
 ## Installation
 • Download ZIP
 
@@ -43,4 +49,11 @@ Local key to use the script:
 ```
 if IsControlJustPressed(0, key['your key here']) and smoke_ready == true 
 ```
+
+
+
+
+
+
+
 
