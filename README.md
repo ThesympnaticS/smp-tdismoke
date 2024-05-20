@@ -38,7 +38,7 @@ local particleName = "ent_amb_stoner_vent_smoke"
 local particleName = "proj_grenade_smoke"
 local particleName = "proj_grenade_smoke"
 ```
-Only cars in this list will be able to use the script, make sure to add yours, ADDON cars are work as well:
+Only cars in this list will be able to use the script, make sure to add yours, ADDON cars work as well:
 ```lua
 carblacklist = { 
     "car1"  ,
