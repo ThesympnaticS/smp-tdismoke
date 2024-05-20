@@ -18,8 +18,8 @@ local particleName = "proj_grenade_smoke"
 local bone = "exhaust" 
 
 carblacklist = { 
-    "6lcupra"  ,
-    "audis32"  ,
+    "car1"  ,
+    "car2"  ,
 }
 
 local smoke_ready = true
