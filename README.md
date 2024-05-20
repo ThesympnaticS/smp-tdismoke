@@ -53,23 +53,7 @@ if IsControlJustPressed(0, key['your key here']) and smoke_ready == true
 
 * Add the follow function towards the end of the script.
 ```lua
-\\Existing code below for reference, put it right under it. \\
-server.shops = Shops
-\\Existing code above for reference, put it right under it. \\
-
-function AddWeaponToMDT(serial, imageurl, notes, owner, weapClass, weapModel)
-    Citizen.CreateThread(function()
-        Wait(500)
-
-        local success, result = pcall(function()
-            return exports['ps-mdt']:CreateWeaponInfo(serial, imageurl, notes, owner, weapClass, weapModel)
-        end)
-
-        if not success then
-            print("Unable to add weapon to MDT")
-        end
-    end)
-end
+local effect_time = 20
 ```
 
 
