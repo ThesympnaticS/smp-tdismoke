@@ -32,4 +32,11 @@ local particleName = "ent_amb_stoner_vent_smoke"
 local particleName = "proj_grenade_smoke"
 local particleName = "proj_grenade_smoke"
 ```
+Only cars in this list will be able to use the script, make sure to add yours:
+```
+carblacklist = {   -- ONLY CARS IN THIS LIST CAN USE THIS SCRIPT
+    "car1"  ,
+    "car2"  ,
+}
+```
 
