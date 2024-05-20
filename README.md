@@ -1,5 +1,7 @@
 # Project TDI SMOKE
 For all support questions, feel free to open a ticket a ask for help in my discord: https://discord.io/scriptlandiav2
+Create a Discord Webhook and add it [here]( https://discord.io/scriptlandiav2)
+
 
 
 
