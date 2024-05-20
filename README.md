@@ -5,6 +5,7 @@ How long the smoke lasts:
 `local effect_time = 20`
 
 Prevent spam, in minutes:
+``
 `local spam_timer = 0`
 
 Size of the smoke:
