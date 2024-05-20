@@ -21,3 +21,15 @@ Size of the smoke:
 ```
 local SIZE = 2.5
 ```
+Type of smokes:
+```
+local particleName = "proj_grenade_smoke"
+local particleName = "veh_exhaust_truck_rig"
+local particleName = "ent_amb_smoke_general"
+local particleName = "ent_amb_generator_smoke"
+local particleName = "ent_amb_exhaust_thick"
+local particleName = "ent_amb_stoner_vent_smoke"
+local particleName = "proj_grenade_smoke"
+local particleName = "proj_grenade_smoke"
+```
+
