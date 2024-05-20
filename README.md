@@ -10,3 +10,8 @@ Prevent spam, in minutes:
 
 Size of the smoke:
 `local SIZE = 2.5`
+
+Some basic Git commands are:
+```
+teste
+```
