@@ -6,7 +6,7 @@ For all support questions, feel free to open a ticket a ask me for help in my di
 
 • Drag and drop resource into your server files
 
-• Ensure <sup>smp-tdismoke</sup> in your *server.cfg*
+• Ensure ***smp-tdismoke*** in your *server.cfg* 
 
 ## Informations
 How long the smoke lasts:
