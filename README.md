@@ -1,12 +1,14 @@
 ⚠️ Warning
 This script is provided for free and is intended for educational and personal use only. By using this script, you agree not to sell, redistribute, or use it for any commercial purposes without explicit permission from the author.
 
+end
 local effect_time = 20   -- how long it lasts in seconds
 local spam_timer = 0    -- prevent spam ( in minutes )
 local SIZE = 2.5        -- size of smoke 
 local particleDict = "core" -- do not change
 local particleName = "proj_grenade_smoke" -- particle smoke
-local bone = "exhaust" -- what it comes out of `
+local bone = "exhaust" -- what it comes out of 
+end
 
 
 
