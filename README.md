@@ -41,6 +41,6 @@ carblacklist = {
 ```
 Control key to use the script:
 ```
-if IsControlJustPressed(0, key['***your key here***']) and smoke_ready == true 
+if IsControlJustPressed(0, key['your key here']) and smoke_ready == true 
 ```
 
