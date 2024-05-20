@@ -8,11 +8,7 @@ For all support questions, feel free to open a ticket a ask me for help in my di
 
 • Ensure *smp-tdismoke* in your *server.cfg*
 
-
-
-
-
-
+## Informations
 How long the smoke lasts:
 ```
 local effect_time = 20
