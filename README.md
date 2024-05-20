@@ -33,6 +33,7 @@ local particleName = "proj_grenade_smoke"
 local particleName = "proj_grenade_smoke"
 ```
 Only cars in this list will be able to use the script, make sure to add yours.
+
 ADDON cars are woking as well:
 ```
 carblacklist = { 
