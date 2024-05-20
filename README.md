@@ -21,7 +21,7 @@ Size of the smoke:
 ```
 local SIZE = 2.5
 ```
-Type of smokes (you can test them all, so one fits you)
+Type of smokes, feel free to test them:
 ```
 local particleName = "proj_grenade_smoke"
 local particleName = "veh_exhaust_truck_rig"
