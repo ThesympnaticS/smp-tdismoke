@@ -34,7 +34,7 @@ local particleName = "proj_grenade_smoke"
 ```
 Only cars in this list will be able to use the script, make sure to add yours:
 ```
-carblacklist = {   -- ONLY CARS IN THIS LIST CAN USE THIS SCRIPT
+carblacklist = { 
     "car1"  ,
     "car2"  ,
 }
