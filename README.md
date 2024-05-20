@@ -8,8 +8,6 @@ For all support questions, feel free to open a ticket a ask for help in my disco
 
 • Ensure ***smp-tdismoke*** in your ***server.cfg*** 
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/F0oZx3BGeW8)
-
 ## Informations
 How long the smoke lasts:
 ```
